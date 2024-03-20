@@ -1,2 +1,2 @@
-# CTIinaBox
+# CTI in a Box
 How to get started with a cyber threat intelligence program
