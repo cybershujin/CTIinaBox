@@ -119,6 +119,28 @@ The feedback phase in the cyber threat intelligence (CTI) lifecycle is crucial f
 - [PivotCon](https://pivotcon.org/)
 - [VirusBulletin Conference](https://www.virusbulletin.com/conference/vb2022/)
 
+
+**Infosec Discord Servers**
+General Infosec Servers:
+Defcon https://discord.gg/defcon
+BlueTeamVillage https://discord.gg/blueteamvillage
+DeadPixelSec https://discord.gg/deadpixelsec
+DigitalOverdose https://discord.gg/digitaloverdose
+darknetdiaries https://discord.gg/darknetdiaries
+InfoSec Community https://discord.gg/SD2kwg9tgJ
+CyberDefenders https://discord.gg/FVzk5ZWmt7
+NahamSec https://discord.gg/zFPqmCQJgy
+TheCyberCommunity https://discord.gg/ajuJ3vbYhA
+
+Focused on Threat Research:
+Core CTI https://discord.gg/hbuu3XvbgH
+ThreatHunterCommunity https://discord.gg/threathunter
+
+Focused on OSINT: 
+ProjectOwl https://discord.gg/projectowl
+TheOSINTion https://discord.gg/8vsSZhZtC5
+BellingCat https://discord.gg/bellingcat
+
 **Books/TV Shows/Movies/Podcasts**
 
 
@@ -133,3 +155,5 @@ The feedback phase in the cyber threat intelligence (CTI) lifecycle is crucial f
 - [Intelligence-Driven Incident Response: Outwitting the Adversary](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary/dp/1491934948)
 - [Visual Threat Intelligence: An Illustrated Guide For Threat Researchers](https://www.amazon.com/Visual-Threat-Intelligence-Illustrated-Researchers/dp/B0C7JCF8XD)
 - [Splunk’s Bluenomicon](https://www.splunk.com/en_us/campaigns/bluenomicon-book-from-surge.html)
+
+  
