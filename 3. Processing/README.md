@@ -1,5 +1,8 @@
 # Processing
 
+##
+[Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel ](https://github.com/mandiant/ThreatPursuit-VM)
+
 ### CTI Vendors
 
 - [Microsoft's Security Intelligence Team (MSTIC)](https://twitter.com/MsftSecIntel)
