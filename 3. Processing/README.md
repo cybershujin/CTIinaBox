@@ -1,6 +1,6 @@
 # Processing
 
-##
+### Operating systems and software for the Analyst
 [Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel ](https://github.com/mandiant/ThreatPursuit-VM)
 
 ### CTI Vendors
