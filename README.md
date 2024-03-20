@@ -1,12 +1,13 @@
 # CTI in a Box
 
-This project is intended to provide a set of guides, tools and resources for:
+This project is intended to provide a set of guides, tools and resources to establish a Cyber Threat Intelligence Program from scratch when your starting budget is $0.
 
+This project includes resources for you to:
 - Pitching a cyber threat intelligence program at your company to establish a CTI function
-- Designing your cyber threat intelligence program including developing Intelligence Requirements (IRs) and Priority Intelligence Requirements (PIRs)
-- Assessing the maturity of your cyber threat intelligence program and identifying your SWOT
-- Guidance, examples and templates through the entire CTI lifecycle
-- Building your CTI capabilities through:
+- Design your cyber threat intelligence program including developing Intelligence Requirements (IRs) and Priority Intelligence Requirements (PIRs)
+- Assess the maturity of your cyber threat intelligence program and identifying your SWOT
+- Reference guidance, examples and templates through the entire CTI lifecycle
+- Build your CTI capabilities through:
   - Templates
   - Tools
   - Interview and competencies guides for hiring
@@ -38,4 +39,7 @@ The folders in this project are organized by the CTI Lifecycle:
 ### Contributors
 
 I have had so many people be incredibly generous with their time and knowledge to help make this project come to life. 
-https://www.linkedin.com/in/john-doyle-a02bab10/
+|Contributor | Links | Notes |
+|--------------------- | ------------------------- | --------|
+| John Doyle | [Linkedin](https://www.linkedin.com/in/john-doyle-a02bab10/) | John found out I was working on this project and shared dozens of links and resources I sprinkled throughout this project. |
+
