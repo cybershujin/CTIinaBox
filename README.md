@@ -27,3 +27,6 @@ The folders in this project are organized by the CTI Lifecycle:
  | [Planning and Direction](https://github.com/cybershujin/CTIinaBox/tree/main/1.%20Planning%20and%20Direction) | This is your getting started page, which also includes how to pitch a CTI program, how to identify your stakeholders, resources for program maturity assessments and how to document your Intelligence Requirements (IRs) and Prioritiy Intelligence Requirements (PIRs) |
 | Collection             |                                                              |                                                              |
 
+There are some fantastic CTI githubs out there worth sharing.
+ | Link                                                         | Notes                                                        |
+ | [Open Source Tools for CTI by BushidoUK](https://github.com/BushidoUK/Open-source-tools-for-CTI/tree/master) | Amazing list of resources, and a fantastic CTI practioner. He breaks up his resources into strategic, tactical and operational intelligence resources. Also check out his blog too: https://bushidotoken.net and follow him on Twitter: @BushidoToken | 
