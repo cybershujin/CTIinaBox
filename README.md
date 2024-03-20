@@ -24,6 +24,6 @@ The folders in this project are organized by the CTI Lifecycle:
 
  | Link                                                         | Notes                                                        |
  | ------------------------------------------------------------ | ------------------------------------------------------------ |
- | [link]([https://github.com/cybershujin/CTIinaBox/tree/main/1. Planning and Direction](https://github.com/cybershujin/CTIinaBox/tree/main/1.%20Planning%20and%20Direction)) | This is your getting started page, which also includes how to pitch a CTI program |
+ | [Planning and Direction](https://github.com/cybershujin/CTIinaBox/tree/main/1.%20Planning%20and%20Direction)) | This is your getting started page, which also includes how to pitch a CTI program, how to identify your stakeholders and how to document your Intelligence Requirements (IRs) and Prioritiy Intelligence Requirements (PIRs) |
 | Collection             |                                                              |                                                              |
 
