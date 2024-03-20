@@ -29,6 +29,7 @@ The folders in this project are organized by the CTI Lifecycle:
 
 ## There are some fantastic CTI githubs out there worth sharing.
 <br>
+
  | Link                                                         | Notes                                                        |
  |-----------------------------| ----------------------------------------------------------------------------------------------------------------------------- |
  | [Open Source Tools for CTI by BushidoUK](https://github.com/BushidoUK/Open-source-tools-for-CTI/tree/master) | Amazing list of resources, and a fantastic CTI practioner. He breaks up his resources into strategic, tactical and operational intelligence resources. Also check out his blog too: https://bushidotoken.net and follow him on Twitter: @BushidoToken | 
