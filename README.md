@@ -34,7 +34,8 @@ The folders in this project are organized by the CTI Lifecycle:
 
  | Link                                                         | Notes                                                        |
  |-----------------------------| ----------------------------------------------------------------------------------------------------------------------------- |
- | [Open Source Tools for CTI by BushidoUK](https://github.com/BushidoUK/Open-source-tools-for-CTI/tree/master) | Amazing list of resources, and a fantastic CTI practioner. He breaks up his resources into strategic, tactical and operational intelligence resources. Also check out his blog too: https://bushidotoken.net and follow him on Twitter: @BushidoToken | 
+ | [Open Source Tools for CTI by BushidoUK](https://github.com/BushidoUK/Open-source-tools-for-CTI/tree/master) | Amazing list of resources, and a fantastic CTI practioner. He breaks up his resources into strategic, tactical and operational intelligence resources. Also check out his blog too: https://bushidotoken.net and follow him on Twitter: @BushidoToken I know this reseacher from our participation in the [Curated Intel](https://curatedintel.org/) community | 
+ |[Curated Itntel](https://github.com/curated-intel) | All amazing work from experts in the field. Particularly the [CTI Fundamentals](https://github.com/curated-intel/CTI-fundamentals) and the [Threat Actor Profile](https://github.com/curated-intel/Threat-Actor-Profile-Guide) repos are referenced as excellent guides in other parts of this project |
 
 ### Contributors
 
