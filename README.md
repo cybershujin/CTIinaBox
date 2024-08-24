@@ -36,6 +36,14 @@ The folders in this project are organized by the CTI Lifecycle:
  |-----------------------------| ----------------------------------------------------------------------------------------------------------------------------- |
  | [Open Source Tools for CTI by BushidoUK](https://github.com/BushidoUK/Open-source-tools-for-CTI/tree/master) | Amazing list of resources, and a fantastic CTI practioner. He breaks up his resources into strategic, tactical and operational intelligence resources. Also check out his blog too: https://bushidotoken.net and follow him on Twitter: @BushidoToken I know this reseacher from our participation in the [Curated Intel](https://curatedintel.org/) community | 
  |[Curated Itntel](https://github.com/curated-intel) | All amazing work from experts in the field. Particularly the [CTI Fundamentals](https://github.com/curated-intel/CTI-fundamentals) and the [Threat Actor Profile](https://github.com/curated-intel/Threat-Actor-Profile-Guide) repos are referenced as excellent guides in other parts of this project |
+ | [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence) | Includes sources, formats, frameworks and platforms, tools, research, standards and books. |
+ | [Awesome Threat Intel Blogs](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?gid=0#gid=0) | blog and feed links |
+ | [Awesome Threat Intel RSS Feeds](https://github.com/thehappydinoa/awesome-threat-intel-rss) | A curated list of blogs posting threat intel. | 
+ | [Free Threat Intel / IOC Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds) | This repository contains Open Source freely usable Threat Intel feeds that can be used without additional requirements.  The CSV [ThreatIntelFeeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/blob/main/ThreatIntelFeeds.csv) is stored in a structured manner based on the Vendor, Description, Category and URL. |
+ |[Ransomwatch Github](https://github.com/joshhighet/ransomwatch) and [Ransomwatch Live Site](https://ransomwatch.telemetry.ltd/#/) | providing crawling of ransomware data leak sites and victim listings, including full onion links |
+ |[Ransomare.live](https://www.ransomware.live/#/) | providing crawling of ransomware data leak sites and victim listings, including full onion links |
+ 
+ 
 
 ### Contributors
 
