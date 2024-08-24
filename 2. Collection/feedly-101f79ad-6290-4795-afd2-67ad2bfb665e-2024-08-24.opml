@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Rachel subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Artificial Intelligence" title="Artificial Intelligence">
+            <outline type="rss" text="Machine Learning Blog | ML@CMU | Carnegie Mellon University" title="Machine Learning Blog | ML@CMU | Carnegie Mellon University" xmlUrl="https://blog.ml.cmu.edu/feed/" htmlUrl="https://blog.ml.cmu.edu"/>
+            <outline type="rss" text="AI &amp; Machine Learning" title="AI &amp; Machine Learning" xmlUrl="https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/" htmlUrl="https://cloud.google.com/blog/products/ai-machine-learning/"/>
+            <outline type="rss" text="ScienceDirect Publication: Artificial Intelligence" title="ScienceDirect Publication: Artificial Intelligence" xmlUrl="http://rss.sciencedirect.com/publication/science/00043702" htmlUrl="https://www.sciencedirect.com/journal/artificial-intelligence"/>
+            <outline type="rss" text="Communications of the ACM - Artificial Intelligence " title="Communications of the ACM - Artificial Intelligence " xmlUrl="http://cacm.acm.org/browse-by-subject/artificial-intelligence.rss" htmlUrl="https://cacm.acm.org/news?subject=1"/>
+            <outline type="rss" text="MIT News - Computer Science and Artificial Intelligence Laboratory " title="MIT News - Computer Science and Artificial Intelligence Laboratory " xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/"/>
+            <outline type="rss" text="Artificial Intelligence - The Next Web" title="Artificial Intelligence - The Next Web" xmlUrl="https://thenextweb.com/artificial-intelligence/feed/" htmlUrl="https://thenextweb.com"/>
+            <outline type="rss" text="The Gradient" title="The Gradient" xmlUrl="https://thegradient.pub/rss/" htmlUrl="https://thegradient.pub/"/>
+            <outline type="rss" text="Latest Results for Artificial Intelligence Review" title="Latest Results for Artificial Intelligence Review" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10462&amp;channel-name=Artificial%20Intelligence%20Review" htmlUrl="http://link.springer.com"/>
+            <outline type="rss" text="AI Time Journal – Artificial Intelligence, Automation, Work and Business" title="AI Time Journal – Artificial Intelligence, Automation, Work and Business" xmlUrl="https://www.aitimejournal.com/feed" htmlUrl="https://www.aitimejournal.com/"/>
+            <outline type="rss" text="MIT News - Artificial intelligence" title="MIT News - Artificial intelligence" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" htmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence2"/>
+            <outline type="rss" text="CFPs on Artificial Intelligence : WikiCFP" title="CFPs on Artificial Intelligence : WikiCFP" xmlUrl="http://www.wikicfp.com/cfp/rss?cat=artificial%20intelligence" htmlUrl="http://www.wikicfp.com/cfp/call?conference=artificial%20intelligence"/>
+            <outline type="rss" text="Artificial Intelligence (AI) | TechCrunch" title="Artificial Intelligence (AI) | TechCrunch" xmlUrl="https://techcrunch.com/tag/artificial-intelligence/feed/" htmlUrl="https://techcrunch.com/tag/artificial-intelligence/"/>
+            <outline type="rss" text="DeepMind " title="DeepMind " xmlUrl="https://deepmind.com/blog/feed/basic/" htmlUrl="https://deepmind.google/discover/blog/"/>
+            <outline type="rss" text="Hugging Face - Blog" title="Hugging Face - Blog" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog"/>
+            <outline type="rss" text="OpenAI Blog" title="OpenAI Blog" xmlUrl="https://openai.com/feed.xml" htmlUrl="https://openai.com/blog"/>
+            <outline type="rss" text="ScienceDaily - Artificial Intelligence" title="ScienceDaily - Artificial Intelligence" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
+            <outline type="rss" text="The TensorFlow Blog" title="The TensorFlow Blog" xmlUrl="https://blog.tensorflow.org/feeds/posts/default" htmlUrl="https://blog.tensorflow.org/"/>
+            <outline type="rss" text="r/artificial" title="r/artificial" xmlUrl="https://api.reddit.com/subreddit/artificial" htmlUrl="https://www.reddit.com/r/artificial/new"/>
+            <outline type="rss" text="Microsoft Research Blog - Microsoft Research" title="Microsoft Research Blog - Microsoft Research" xmlUrl="http://research.microsoft.com/rss/news.xml" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
+            <outline type="rss" text="AI News" title="AI News" xmlUrl="https://www.artificialintelligence-news.com/feed/" htmlUrl="https://www.artificialintelligence-news.com/"/>
+            <outline type="rss" text="Artificial Intelligence on Medium" title="Artificial Intelligence on Medium" xmlUrl="https://medium.com/feed/tag/artificial-intelligence" htmlUrl="https://medium.com/tag/artificial-intelligence/latest?source=rss------artificial_intelligence-5"/>
+            <outline type="rss" text="Partnership on AI" title="Partnership on AI" xmlUrl="http://www.partnershiponai.org/feed/" htmlUrl="https://partnershiponai.org/"/>
+            <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://googleresearch.blogspot.com/atom.xml" htmlUrl="http://blog.research.google/"/>
+            <outline type="rss" text="cs.AI updates on arXiv.org" title="cs.AI updates on arXiv.org" xmlUrl="http://arxiv.org/rss/cs.AI" htmlUrl="http://rss.arxiv.org/rss/cs.AI"/>
+            <outline type="rss" text="The Guardian - Artificial intelligence" title="The Guardian - Artificial intelligence" xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
+            <outline type="rss" text="The Berkeley Artificial Intelligence Research Blog" title="The Berkeley Artificial Intelligence Research Blog" xmlUrl="http://bair.berkeley.edu/blog/feed.xml" htmlUrl="http://bair.berkeley.edu/blog/"/>
+            <outline type="rss" text="Towards AI" title="Towards AI" xmlUrl="https://medium.com/feed/towards-artificial-intelligence" htmlUrl="https://pub.towardsai.net?source=rss----98111c9905da---4"/>
+            <outline type="rss" text="AWS Machine Learning Blog" title="AWS Machine Learning Blog" xmlUrl="https://aws.amazon.com/blogs/amazon-ai/feed/" htmlUrl="https://aws.amazon.com/blogs/machine-learning/"/>
+            <outline type="rss" text="&quot;AI&quot; - Google News" title="&quot;AI&quot; - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=AI&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;q=AI"/>
+        </outline>
+        <outline text="Reddits" title="Reddits">
+            <outline type="rss" text="r/sysadmin" title="r/sysadmin" xmlUrl="https://api.reddit.com/subreddit/sysadmin" htmlUrl="https://www.reddit.com/r/sysadmin/new"/>
+            <outline type="rss" text="r/netsec" title="r/netsec" xmlUrl="https://api.reddit.com/subreddit/netsec" htmlUrl="https://www.reddit.com/r/netsec/new"/>
+            <outline type="rss" text="r/blueteamsec" title="r/blueteamsec" xmlUrl="https://api.reddit.com/subreddit/blueteamsec" htmlUrl="https://www.reddit.com/r/blueteamsec/new"/>
+            <outline type="rss" text="r/threatintel" title="r/threatintel" xmlUrl="https://api.reddit.com/subreddit/threatintel" htmlUrl="https://www.reddit.com/r/threatintel/new"/>
+            <outline type="rss" text="r/Malware" title="r/Malware" xmlUrl="https://api.reddit.com/subreddit/Malware" htmlUrl="https://www.reddit.com/r/Malware/new"/>
+            <outline type="rss" text="r/cybersecurity" title="r/cybersecurity" xmlUrl="https://api.reddit.com/subreddit/cybersecurity" htmlUrl="https://www.reddit.com/r/cybersecurity/new"/>
+        </outline>
+        <outline text="Threat intelligence feeds" title="Threat intelligence feeds">
+            <outline type="rss" text="RAND Research Topic: Cybercrime" title="RAND Research Topic: Cybercrime" xmlUrl="https://www.rand.org/topics/cybercrime.xml" htmlUrl="https://www.rand.org/topics/cybercrime.html"/>
+            <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com"/>
+            <outline type="rss" text="The Exploit Database - CXSecurity.com" title="The Exploit Database - CXSecurity.com" xmlUrl="http://securityreason.com/rss/ExploitAlert" htmlUrl="https://cxsecurity.com/wlb/"/>
+            <outline type="rss" text="Darknet" title="Darknet" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
+            <outline type="rss" text="Latest topics for ZDNet in Security" title="Latest topics for ZDNet in Security" xmlUrl="http://www.zdnet.com/topic-security/rss.xml" htmlUrl="https://www.zdnet.com/"/>
+            <outline type="rss" text="Advanced Password Cracking" title="Advanced Password Cracking" xmlUrl="http://blog.crackpassword.com/feed/" htmlUrl="https://blog.elcomsoft.com"/>
+            <outline type="rss" text="E Hacking News - Latest Hacker News and IT Security News" title="E Hacking News - Latest Hacker News and IT Security News" xmlUrl="http://www.ehackingnews.com/feeds/posts/default" htmlUrl="https://www.ehackingnews.com/"/>
+            <outline type="rss" text="Cybersecurity Blog | CrowdStrike" title="Cybersecurity Blog | CrowdStrike" xmlUrl="http://blog.crowdstrike.com/feed" htmlUrl="https://www.crowdstrike.com/blog/"/>
+            <outline type="rss" text="Security – Cisco Blogs" title="Security – Cisco Blogs" xmlUrl="http://blogs.cisco.com/rss/security/" htmlUrl="https://blogs.cisco.com/security"/>
+            <outline type="rss" text="RiskIQ" title="RiskIQ" xmlUrl="https://www.riskiq.com/feed/" htmlUrl="https://www.riskiq.com"/>
+            <outline type="rss" text="Secureworks Counter Threat Unit (CTU) Research" title="Secureworks Counter Threat Unit (CTU) Research" xmlUrl="https://www.secureworks.com/rss?feed=research" htmlUrl="https://www.secureworks.com/research"/>
+            <outline type="rss" text="Exploit Database" title="Exploit Database" xmlUrl="http://www.exploit-db.com/rss.php" htmlUrl="https://www.exploit-db.com"/>
+            <outline type="rss" text="Sucuri Blog" title="Sucuri Blog" xmlUrl="http://blog.sucuri.net/feed" htmlUrl="https://blog.sucuri.net/"/>
+            <outline type="rss" text="Trend Micro Research, News, Perspectives" title="Trend Micro Research, News, Perspectives" xmlUrl="http://feeds.trendmicro.com/Anti-MalwareBlog/" htmlUrl="https://www.trendmicro.com/en_us/research.html"/>
+            <outline type="rss" text="Malware Analysis &amp; Reports" title="Malware Analysis &amp; Reports" xmlUrl="http://www.reddit.com/r/Malware/.rss" htmlUrl="https://www.reddit.com/r/Malware/"/>
+            <outline type="rss" text="Infosecurity" title="Infosecurity" xmlUrl="http://www.infosecurity-magazine.com/rss/news/" htmlUrl="https://www.infosecurity-magazine.com/news/"/>
+            <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+            <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="https://www.darkreading.com"/>
+            <outline type="rss" text="muddywater" title="muddywater" xmlUrl="https://feedly.com/f/alert/a74aaf5c-e02a-4c8c-a173-1bba1a282502"/>
+            <outline type="rss" text="Securelist" title="Securelist" xmlUrl="https://securelist.com/feed/" htmlUrl="https://securelist.com"/>
+            <outline type="rss" text="CSO Online" title="CSO Online" xmlUrl="http://www.csoonline.com/index.rss" htmlUrl="https://www.csoonline.com"/>
+            <outline type="rss" text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" xmlUrl="http://iscxml.sans.org/rssfeed.xml" htmlUrl="https://isc.sans.edu"/>
+            <outline type="rss" text="ZDNet | Security" title="ZDNet | Security" xmlUrl="http://www.zdnet.com/blog/security/rss" htmlUrl="https://www.zdnet.com/"/>
+            <outline type="rss" text="Cyberwar | The Guardian" title="Cyberwar | The Guardian" xmlUrl="https://www.theguardian.com/technology/cyberwar/rss" htmlUrl="https://www.theguardian.com/technology/cyberwar"/>
+            <outline type="rss" text="Cyberwarzone" title="Cyberwarzone" xmlUrl="http://cyberwarzone.com/feed/" htmlUrl="https://cyberwarzone.com"/>
+            <outline type="rss" text="Troy Hunt's Blog" title="Troy Hunt's Blog" xmlUrl="http://feeds.feedburner.com/TroyHunt" htmlUrl="https://www.troyhunt.com/"/>
+            <outline type="rss" text="LevelBlue Blogs" title="LevelBlue Blogs" xmlUrl="http://feeds.feedblitz.com/alienvault-blogs&amp;x=1" htmlUrl="https://cybersecurity.att.com/blogs"/>
+            <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com"/>
+            <outline type="rss" text="SilentLibrarian" title="SilentLibrarian" xmlUrl="https://feedly.com/f/alert/8aa09d1b-a962-4f6c-ab2f-183eee7330b3"/>
+            <outline type="rss" text="Debian Security" title="Debian Security" xmlUrl="http://www.debian.org/security/dsa" htmlUrl="https://www.debian.org/security/dsa.rdf"/>
+            <outline type="rss" text="HackRead" title="HackRead" xmlUrl="http://feeds.feedburner.com/hackread" htmlUrl="https://hackread.com"/>
+            <outline type="rss" text="Malwarebytes" title="Malwarebytes" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://www.malwarebytes.com/"/>
+            <outline type="rss" text="Help Net Security" title="Help Net Security" xmlUrl="http://feeds2.feedburner.com/HelpNetSecurity" htmlUrl="https://www.helpnetsecurity.com/"/>
+            <outline type="rss" text="Softpedia News / Security" title="Softpedia News / Security" xmlUrl="http://news.softpedia.com/newsRSS/Security-5.xml" htmlUrl="https://news.softpedia.com/"/>
+            <outline type="rss" text="apt29" title="apt29" xmlUrl="https://feedly.com/f/alert/8fd8e202-8299-48c4-8d8a-520338c16280"/>
+            <outline type="rss" text="Have I Been Pwned latest breaches" title="Have I Been Pwned latest breaches" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/"/>
+            <outline type="rss" text="IT Security Guru " title="IT Security Guru " xmlUrl="http://itsecurityguru.org/feed/" htmlUrl="https://www.itsecurityguru.org/"/>
+            <outline type="rss" text="Panda Security Mediacenter" title="Panda Security Mediacenter" xmlUrl="http://pandalabs.pandasecurity.com/rss.aspx" htmlUrl="https://www.pandasecurity.com/en/mediacenter/"/>
+            <outline type="rss" text="Infosec Resources" title="Infosec Resources" xmlUrl="http://feeds.feedburner.com/infosecResources" htmlUrl="https://resources.infosecinstitute.com"/>
+            <outline type="rss" text="Naked Security - Sophos" title="Naked Security - Sophos" xmlUrl="http://feeds.feedburner.com/NakedSecurity" htmlUrl="https://nakedsecurity.sophos.com"/>
+            <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="https://seclists.org/#fulldisclosure"/>
+            <outline type="rss" text="Security Affairs " title="Security Affairs " xmlUrl="http://securityaffairs.co/wordpress/feed" htmlUrl="https://securityaffairs.com/"/>
+            <outline type="rss" text="Black Swan Security" title="Black Swan Security" xmlUrl="http://blog.blackswansecurity.com/feed/" htmlUrl="https://blog.blackswansecurity.com"/>
+            <outline type="rss" text="ThreatSTOP Blog" title="ThreatSTOP Blog" xmlUrl="https://blog.threatstop.com/rss.xml" htmlUrl="https://www.threatstop.com/blog"/>
+            <outline type="rss" text="HOTforSecurity" title="HOTforSecurity" xmlUrl="http://feeds.feedburner.com/HOTforSecurity" htmlUrl="https://hotforsecurity.bitdefender.com"/>
+            <outline type="rss" text="Anton on Security" title="Anton on Security" xmlUrl="https://medium.com/feed/anton-on-security" htmlUrl="https://medium.com/anton-on-security?source=rss----8e8c3ed26c4c---4"/>
+            <outline type="rss" text="Threat Research – Cisco Blog" title="Threat Research – Cisco Blog" xmlUrl="http://feeds.feedburner.com/CiscoBlogThreatResearch" htmlUrl="https://blogs.cisco.com"/>
+            <outline type="rss" text="Packet Storm Security" title="Packet Storm Security" xmlUrl="http://packetstormsecurity.org/headlines.xml" htmlUrl="https://packetstormsecurity.com/"/>
+            <outline type="rss" text="Artifical intelligence - Microsoft Research" title="Artifical intelligence - Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/blog/category/intelligence/artifical-intelligence/feed/" htmlUrl="https://www.microsoft.com/en-us/research/blog/category/intelligence/artifical-intelligence/"/>
+            <outline type="rss" text="LLMs Explained - Aggregate Intellect - AI.SCIENCE" title="LLMs Explained - Aggregate Intellect - AI.SCIENCE" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfk3pS8cCPxOgoleriIufyg" htmlUrl="https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg"/>
+            <outline type="rss" text="Webroot Blog" title="Webroot Blog" xmlUrl="http://blog.webroot.com/feed/" htmlUrl="https://www.webroot.com/blog"/>
+            <outline type="rss" text="Gizmodo Security" title="Gizmodo Security" xmlUrl="http://gizmodo.com/tag/security/rss" htmlUrl="https://gizmodo.com/tag/security"/>
+            <outline type="rss" text="Blog" title="Blog" xmlUrl="http://feeds.feedburner.com/Imperviews?format=xml" htmlUrl="https://www.imperva.com/blog"/>
+            <outline type="rss" text="Latest Hacking News" title="Latest Hacking News" xmlUrl="http://www.latesthackingnews.com/feed/" htmlUrl="https://latesthackingnews.com/"/>
+            <outline type="rss" text="Fire Eye Threat Research " title="Fire Eye Threat Research " xmlUrl="http://www.fireeye.com/blog/feed" htmlUrl="https://www.fireeye.com/blog/threat-research.html"/>
+            <outline type="rss" text="Talos Blog" title="Talos Blog" xmlUrl="http://vrt-sourcefire.blogspot.com/feeds/posts/default" htmlUrl="https://blog.talosintelligence.com/"/>
+            <outline type="rss" text="Vulners" title="Vulners" xmlUrl="https://vulners.com/rss.xml?query=type:hackerone" htmlUrl="https://vulners.com"/>
+            <outline type="rss" text="Errata Security" title="Errata Security" xmlUrl="http://erratasec.blogspot.com/feeds/posts/default" htmlUrl="https://blog.erratasec.com/"/>
+            <outline type="rss" text="CISO MAG | Cyber Security Magazine" title="CISO MAG | Cyber Security Magazine" xmlUrl="https://www.cisomag.com/feed/" htmlUrl="https://cisomag.com/"/>
+            <outline type="rss" text="ClearSky Cyber Security" title="ClearSky Cyber Security" xmlUrl="http://www.clearskysec.com/feed/" htmlUrl="https://www.clearskysec.com"/>
+            <outline type="rss" text="Microsoft News" title="Microsoft News" xmlUrl="https://feedly.com/f/alert/3f83ee7c-ab3c-418c-8585-61202e36a173"/>
+            <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+            <outline type="rss" text="Bulletins" title="Bulletins" xmlUrl="http://www.us-cert.gov/channels/bulletins.rdf" htmlUrl="https://www.cisa.gov/"/>
+            <outline type="rss" text="Kaspersky official blog" title="Kaspersky official blog" xmlUrl="http://blog.kaspersky.com/feed/" htmlUrl="https://www.kaspersky.com/blog"/>
+            <outline type="rss" text="The State of Security" title="The State of Security" xmlUrl="http://feeds.feedburner.com/tripwire-state-of-security" htmlUrl="https://www.tripwire.com/"/>
+            <outline type="rss" text="Graham Cluley" title="Graham Cluley" xmlUrl="http://feeds.feedburner.com/GrahamCluleysBlog" htmlUrl="https://grahamcluley.com"/>
+            <outline type="rss" text="ICS Advisories" title="ICS Advisories" xmlUrl="http://ics-cert.us-cert.gov/advisories/advisories.xml" htmlUrl="https://www.cisa.gov/"/>
+            <outline type="rss" text="TaoSecurity" title="TaoSecurity" xmlUrl="http://taosecurity.blogspot.com/atom.xml" htmlUrl="https://taosecurity.blogspot.com/"/>
+            <outline type="rss" text="Microsoft Security Response Center" title="Microsoft Security Response Center" xmlUrl="http://blogs.technet.com/msrc/rss.xml" htmlUrl="https://msrc.microsoft.com/blog/"/>
+            <outline type="rss" text="Vulnerabilities and Threat Research – Qualys Security Blog" title="Vulnerabilities and Threat Research – Qualys Security Blog" xmlUrl="http://laws.qualys.com/atom.xml" htmlUrl="https://blog.qualys.com"/>
+            <outline type="rss" text="Threat analysis – Malwarebytes Labs" title="Threat analysis – Malwarebytes Labs" xmlUrl="https://blog.malwarebytes.com/category/threat-analysis/feed/" htmlUrl="https://blog.malwarebytes.com"/>
+            <outline type="rss" text="Palo Alto Networks Blog" title="Palo Alto Networks Blog" xmlUrl="http://researchcenter.paloaltonetworks.com/feed/" htmlUrl="https://www.paloaltonetworks.com/blog/"/>
+            <outline type="rss" text="Security Labs – Qualys Blog" title="Security Labs – Qualys Blog" xmlUrl="https://community.qualys.com/blogs/securitylabs/feeds/posts" htmlUrl="https://blog.qualys.com"/>
+            <outline type="rss" text="Google Online Security Blog" title="Google Online Security Blog" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml" htmlUrl="http://security.googleblog.com/"/>
+            <outline type="rss" text="Alerts" title="Alerts" xmlUrl="http://www.us-cert.gov/current/index.rdf" htmlUrl="https://www.cisa.gov/"/>
+            <outline type="rss" text="Cofense" title="Cofense" xmlUrl="http://blog.phishme.com/feed/" htmlUrl="https://cofense.com"/>
+            <outline type="rss" text="Naked Security" title="Naked Security" xmlUrl="http://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com"/>
+            <outline type="rss" text="Security Intelligence" title="Security Intelligence" xmlUrl="http://securityintelligence.com/feed/" htmlUrl="https://securityintelligence.com"/>
+            <outline type="rss" text="SecurityWeek" title="SecurityWeek" xmlUrl="http://feeds.feedburner.com/Securityweek" htmlUrl="https://www.securityweek.com/"/>
+            <outline type="rss" text="CyberScoop" title="CyberScoop" xmlUrl="https://www.cyberscoop.com/feed/" htmlUrl="https://cyberscoop.com/"/>
+            <outline type="rss" text="Blaze's Security Blog" title="Blaze's Security Blog" xmlUrl="http://bartblaze.blogspot.com/feeds/posts/default" htmlUrl="https://bartblaze.blogspot.com/"/>
+            <outline type="rss" text="SophosLabs – Sophos News" title="SophosLabs – Sophos News" xmlUrl="http://blogs.sophos.com/category/sophoslabs/feed/" htmlUrl="https://news.sophos.com/en-us/"/>
+            <outline type="rss" text="McAfee Labs – McAfee Blogs" title="McAfee Labs – McAfee Blogs" xmlUrl="http://blogs.mcafee.com/category/mcafee-labs/feed" htmlUrl="https://www.mcafee.com/blogs"/>
+            <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
+            <outline type="rss" text="AlienVault Labs Blog" title="AlienVault Labs Blog" xmlUrl="http://labs.alienvault.com/labs/index.php/feed/" htmlUrl="https://cybersecurity.att.com/blogs/labs-research"/>
+            <outline type="rss" text="360 Netlab Blog - Network Security Research Lab at 360" title="360 Netlab Blog - Network Security Research Lab at 360" xmlUrl="http://blog.netlab.360.com/rss/" htmlUrl="https://blog.netlab.360.com/"/>
+            <outline type="rss" text="WeLiveSecurity" title="WeLiveSecurity" xmlUrl="http://blog.eset.com/feed" htmlUrl="https://www.welivesecurity.com"/>
+            <outline type="rss" text="The Register – Security" title="The Register – Security" xmlUrl="http://www.theregister.co.uk/security/headlines.atom" htmlUrl="https://www.theregister.com/security/"/>
+            <outline type="rss" text="Cyber Safety Review Board" title="Cyber Safety Review Board" xmlUrl="https://feedly.com/f/alert/82eec977-74f2-4304-9a6d-feb3868abe28"/>
+            <outline type="rss" text="Ars Technica – Security" title="Ars Technica – Security" xmlUrl="http://feeds.arstechnica.com/arstechnica/security" htmlUrl="https://arstechnica.com"/>
+            <outline type="rss" text="Microsoft Security" title="Microsoft Security" xmlUrl="http://blogs.technet.com/mmpc/rss.xml" htmlUrl="https://www.microsoft.com/en-us/security/blog/"/>
+        </outline>
+        <outline text="Dark LLM Monitors" title="Dark LLM Monitors">
+            <outline type="rss" text="Dark LLMs" title="Dark LLMs" xmlUrl="https://feedly.com/f/alert/24ce4cd5-7bf8-4c7c-bc0a-9c44f5e03eb9"/>
+        </outline>
+        <outline text="Vulns and Exploits" title="Vulns and Exploits">
+            <outline type="rss" text="Debian Security" title="Debian Security" xmlUrl="http://www.debian.org/security/dsa" htmlUrl="https://www.debian.org/security/dsa.rdf"/>
+            <outline type="rss" text="Exploited" title="Exploited" xmlUrl="https://feedly.com/f/alert/616c61d0-585e-4f27-af4d-033821962d67"/>
+            <outline type="rss" text="Open Source Security" title="Open Source Security" xmlUrl="http://seclists.org/rss/oss-sec.rss" htmlUrl="https://seclists.org/#oss-sec"/>
+            <outline type="rss" text="The Exploit Database - CXSecurity.com" title="The Exploit Database - CXSecurity.com" xmlUrl="http://securityreason.com/rss/ExploitAlert" htmlUrl="https://cxsecurity.com/wlb/"/>
+            <outline type="rss" text="Sploitus.com Exploits RSS Feed" title="Sploitus.com Exploits RSS Feed" xmlUrl="https://sploitus.com/rss" htmlUrl="https://sploitus.com/rss"/>
+            <outline type="rss" text="Exploit Database" title="Exploit Database" xmlUrl="http://www.exploit-db.com/rss.php" htmlUrl="https://www.exploit-db.com"/>
+            <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="https://seclists.org/#fulldisclosure"/>
+            <outline type="rss" text="Citrix Vuln Exploit news" title="Citrix Vuln Exploit news" xmlUrl="https://feedly.com/f/alert/056f35dd-d823-489f-a5e1-f95a44587ca7"/>
+            <outline type="rss" text="Vulners" title="Vulners" xmlUrl="https://vulners.com/rss.xml?query=type:hackerone" htmlUrl="https://vulners.com"/>
+            <outline type="rss" text="Exploit Collector" title="Exploit Collector" xmlUrl="http://exploit.kitploit.com/feeds/posts/default" htmlUrl="http://exploit.kitploit.com/"/>
+            <outline type="rss" text="CERT Recently Published Vulnerability Notes" title="CERT Recently Published Vulnerability Notes" xmlUrl="http://www.kb.cert.org/vulfeed" htmlUrl="https://kb.cert.org/vuls/"/>
+            <outline type="rss" text="Exploitalert" title="Exploitalert" xmlUrl="http://www.windowsexploits.com/feed/" htmlUrl="http://exploitalert.com"/>
+        </outline>
+    </body>
+</opml>
