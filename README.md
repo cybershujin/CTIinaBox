@@ -29,7 +29,7 @@ The folders in this project are organized by the CTI Lifecycle:
 |[Dissemination](https://github.com/cybershujin/CTIinaBox/tree/main/5.%20Dissemination) | Many templates and guides on cyber threat intelligence products as well as guidance for documenting the IR -> ICP -> Dissemination Requirements and aligning that with your Processing Map and Feedback processes **to produce meaningful metrics** to your stakeholders.|
 | [Feedback](https://github.com/cybershujin/CTIinaBox/tree/main/6.%20Feedback) | You will see in different models of the CTI lifecycle the feedback phase might be presented differently. Sometimes it is lumped together with dissemination, when the emphasis is usually placed on getting immediate and real time feedback with your stakeholders. Other times it is omitted all together, usually when the author is emphasizing that the CTI cycle is a complete circle and after dissemination your feedback should be backed into the "Planning and Direction" aspect of the lifecycle. Both are valid interpretations. I created a entirely separate section for Feedback so that this area could focus on templates and methodology for feedback, metrics, and **training for analysts**. Including training in this part of the lifecycle may seem odd at first, but truly we should be all reviewing our CTI lifecycle efforts reguarly to identify opprotunities for our teams to gain important knowledge we need to keep up with the evolving threats our organizations face.|
 
-## There are some fantastic CTI githubs out there worth sharing.
+## There are some fantastic CTI Free Sources out there worth sharing.
 <br>
 
  | Link                                                         | Notes                                                        |
@@ -42,6 +42,7 @@ The folders in this project are organized by the CTI Lifecycle:
  | [Free Threat Intel / IOC Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds) | This repository contains Open Source freely usable Threat Intel feeds that can be used without additional requirements.  The CSV [ThreatIntelFeeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/blob/main/ThreatIntelFeeds.csv) is stored in a structured manner based on the Vendor, Description, Category and URL. |
  |[Ransomwatch Github](https://github.com/joshhighet/ransomwatch) and [Ransomwatch Live Site](https://ransomwatch.telemetry.ltd/#/) | providing crawling of ransomware data leak sites and victim listings, including full onion links |
  |[Ransomare.live](https://www.ransomware.live/#/) | providing crawling of ransomware data leak sites and victim listings, including full onion links |
+ |[APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml) | A decoder ring for AKAs and APT names and operations. Group of contributors built this project |
  
  
 
