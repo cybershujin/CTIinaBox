@@ -1,7 +1,7 @@
 # Analysis Phase
 
 
-
+[Threat Intelligence Diamon Model of Intrustion Analysis](https://www.socinvestigation.com/threat-intelligence-diamond-model-of-intrusion-analysis/)
 Andy Piazza’s SANS 2024 CTI Summit talk on common fallacies analysts run into “[Threat Intelligence is a Fallacy, but I May be Biased](https://www.youtube.com/watch?v=0gbLJJIAdiY)”
 
 - [Helping CTI Analysts Approach and Report on Emerging Technology Threats and Trends (Part 1)](https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends/) 
