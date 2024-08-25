@@ -44,11 +44,13 @@ By meticulously following these steps in the planning phase, organizations can e
 
 [So you're thinking of starting a cyber threat intelligence team (redcanary.com)](https://redcanary.com/blog/intel-team/)
 
-### Document Requirements
+### Document Requirements with Stakeholders
 
 [2019_011_001_546699.pdf (cmu.edu)](https://insights.sei.cmu.edu/documents/1589/2019_011_001_546699.pdf)
 
 Mandiant’s whitepaper “[A requirements-driven approach to CTI](https://www.mandiant.com/resources/blog/requirements-driven-approach-cti)”
+
+[I Can’t Get No Stakeholder Satisfaction – Optimising Feedback in the Intelligence Lifecycle](I Can’t Get No Stakeholder Satisfaction – Optimising Feedback in the Intelligence Lifecycle)
 
 [How to conduct stakeholder interviews to set Priority Intelligence Requirements](https://feedly.com/ti-essentials/posts/how-to-collect-prority-intelligence-requirements-pirs-with-stakeholder-interviews) 
 includes PIR Blueprint and stakeholder interview scheduling email template
