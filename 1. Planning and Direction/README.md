@@ -50,6 +50,10 @@ By meticulously following these steps in the planning phase, organizations can e
 
 Mandiant’s whitepaper “[A requirements-driven approach to CTI](https://www.mandiant.com/resources/blog/requirements-driven-approach-cti)”
 
+[How to conduct stakeholder interviews to set Priority Intelligence Requirements](https://feedly.com/ti-essentials/posts/how-to-collect-prority-intelligence-requirements-pirs-with-stakeholder-interviews) 
+includes PIR Blueprint and stakeholder interview scheduling email template
+
+
 - [Intel471’s General Intelligence Requirements (GIR) Handbook](https://intel471.com/resources/cu-girh-download-request) (pt. 1)
 
 [Intel471’s General Intelligence Requirements (GIR) Handbook](https://intel471.com/blog/how-to-use-intel-471-with-existing-intelligence-frameworks) (pt. 2)
