@@ -1,3 +1,4 @@
+## dtmalerts4.py
 ## you will need to follow the instructions to download the unofficial Mandiant API client here https://github.com/cybercti/maapi/tree/main
 ## then you will need to follow the instructions in Mandiant to generate your key id which is MAV4_USER and your key secret which is MAV4_PASS in this script
 ## once you run the pip install git+https://github.com/cybercti/maapi.git to download the client, you will need to set your environment variables using the key id and key secret
