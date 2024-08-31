@@ -1,3 +1,5 @@
+Excellent when used in conjunction with threat modeling, such as DREAD. For more about threat models and threat intelligence [What is Threat Modeling - Kraven Security](see https://kravensecurity.com/what-is-threat-modeling/)
+
 Certain information must be available for analysis for relevancy of intelligence or threats to an org. The information required is the answers to the following questions. The information includes data from other internal organizations, research already performed, researched to be performed, including open source collection:
 
 ·     What data do we create and maintain that is of importance to the company? What laws protect that data? 
