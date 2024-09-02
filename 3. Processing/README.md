@@ -1,5 +1,45 @@
 # Processing
 
+### Threat Intelligence Platforms Free / Open-Source
+
+## [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
+
+OpenCTI is a comprehensive open-source platform for managing cyber threat intelligence. Key features include:
+Based on STIX2 standards for structuring data
+Graphical visualization of threat data and relationships
+Automated workflows for data analysis and correlation
+Integration with external tools like MISP and MITRE ATT&CK
+Supports various data types including IoCs, TTPs, and threat actors
+Offers both API and web interface access
+OpenCTI excels in its ability to handle complex relationships between threat data and provide advanced analytics. However, it may have a steeper learning curve due to its comprehensive nature.
+
+## [Yeti](https://yeti-platform.io/)
+Yeti is a more lightweight open-source platform focused on organizing and enriching threat intelligence. Key features include:
+Simple web interface and API for data management
+Automatic enrichment of observables (e.g., domain resolution, IP geolocation)
+Supports various data types including IoCs and TTPs
+Visualization of relationships between threats
+Integration with external feeds and tools
+Yeti is praised for its user-friendly interface and ease of use, making it a good choice for smaller teams or those new to threat intelligence platforms.
+
+## [MISP (Malware Information Sharing Platform)](https://www.misp-project.org/)
+MISP is a mature and widely-used open-source threat intelligence platform. Key features include:
+Extensive sharing capabilities between organizations
+Support for a wide range of IoCs and threat data
+Automated correlation of attributes
+Integration with various security tools and feeds
+Large community and extensive documentation
+MISP is known for its robust sharing features and large user community, but may be more complex to set up and manage compared to some other options.
+
+## [TheHive](https://github.com/TheHive-Project/TheHive)
+TheHive is an open-source security incident response platform with threat intelligence capabilities. Key features include:
+Case management for security incidents
+Integration with MISP for threat intelligence
+Customizable dashboards and templates
+Collaboration features for security teams
+TheHive is particularly strong in incident response workflows but may be less focused on pure threat intelligence management compared to other platforms.
+In summary, OpenCTI offers advanced analytics and visualization but may be more complex, Yeti provides a user-friendly experience for basic threat intelligence needs, MISP excels in information sharing and community features, while TheHive focuses on incident response with integrated threat intelligence capabilities. The choice between these platforms depends on your specific needs, team size, and existing security infrastructure.
+
 ### Operating systems and software for the Analyst
 [Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel ](https://github.com/mandiant/ThreatPursuit-VM)
 
