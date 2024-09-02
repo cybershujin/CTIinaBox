@@ -1,5 +1,25 @@
 # Analysis Phase
 
+The analysis phase is a critical step in the CTI lifecycle where processed intelligence is examined in-depth to identify trends, patterns, and potential impact on the organization. This phase involves a combination of human analysis and machine-based techniques to gain insights and draw meaningful conclusions from the data. Here are the key aspects of the analysis phase:
+
+Contextual Analysis: The processed intelligence is analyzed within the context of the organization's specific environment, assets, and risk profile. This helps determine the relevance and potential impact of identified threats.
+Threat Profiling: Analysts create detailed profiles of threat actors, including their motivations, capabilities, and tactics, techniques, and procedures (TTPs). This helps anticipate their likely targets and methods of attack.
+Trend Analysis: Historical data is analyzed to identify patterns and trends in threat actor behavior, attack vectors, and targeted vulnerabilities. This can help predict future threats and prioritize security measures.
+Technical Analysis: In-depth technical analysis is conducted on malware samples, exploits, and other artifacts to understand their functionality, characteristics, and potential impact. This often involves reverse engineering and sandbox analysis.
+Impact Assessment: The potential impact of identified threats is assessed in terms of financial losses, reputational damage, operational disruptions, and other business-specific factors. This helps prioritize threats and allocate resources effectively.
+Attribution: Analysts attempt to attribute threats to specific threat actors or groups based on available evidence, such as attack infrastructure, malware signatures, or TTPs. Attribution can help inform response strategies and engage law enforcement when necessary.
+Collaboration and Feedback: Analysts collaborate with internal stakeholders, such as incident responders and vulnerability management teams, as well as external partners, to validate findings, gather additional insights, and refine the intelligence.
+
+The output of the analysis phase is actionable intelligence that enables informed decision-making and proactive defense. This may include:
+
+Prioritized lists of threats and vulnerabilities to address
+Recommended courses of action to mitigate risks
+Updated defense strategies and security policies
+Threat reports and briefings for management and other stakeholders
+
+By thoroughly analyzing processed intelligence, the analysis phase helps organizations understand the threat landscape, anticipate attacks, and make data-driven decisions to enhance their cybersecurity posture.
+
+### Analysis Resources
 
 [Threat Intelligence Diamon Model of Intrustion Analysis](https://www.socinvestigation.com/threat-intelligence-diamond-model-of-intrusion-analysis/)
 Andy Piazza’s SANS 2024 CTI Summit talk on common fallacies analysts run into “[Threat Intelligence is a Fallacy, but I May be Biased](https://www.youtube.com/watch?v=0gbLJJIAdiY)”
