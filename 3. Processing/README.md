@@ -1,5 +1,25 @@
 # Processing
 
+The processing phase is a crucial step in the CTI lifecycle where raw data collected from various sources is transformed into structured, usable information. This phase involves several key steps:
+
+1. Data Normalization: Raw data comes in different formats, so it needs to be standardized and converted into a consistent format. This makes it easier to analyze and compare data from multiple sources.
+
+2. Data Enrichment: Additional context is added to the normalized data to make it more meaningful and valuable. This may include adding details like IP geolocation, domain registration information, or threat actor profiles.
+
+3. Data Correlation: Relationships and connections between different data points are identified and linked. For example, correlating an IP address to a specific malware campaign or threat actor.
+
+4. Data Analysis: The enriched and correlated data is examined to identify patterns, trends, and anomalies. This helps uncover potential threats, vulnerabilities, and attack vectors.
+
+5. Data Prioritization: The analyzed data is prioritized based on its relevance, urgency, and potential impact. This ensures that the most critical threats are addressed first.
+
+6. Data Dissemination: The processed intelligence is packaged into a consumable format, such as reports, alerts, or dashboards, and shared with relevant stakeholders, such as incident response teams, security operations centers, or management.
+
+The processing phase takes the raw data collected in the previous phase and refines it into actionable intelligence that can be used to make informed decisions and improve an organization's security posture. It's important to note that the processing phase is not a one-time event but an ongoing process. As new data is collected, it must be continuously processed and analyzed to keep the intelligence up-to-date and relevant.
+
+Generally speaking most people rely on Threat Intelligence Platforms (TIP) to ingest threat intelligence using STIX (Structured Threat Information Expression) which is a standardized language and serialization format used to exchange cyber threat intelligence (CTI) data. STIX enables organizations to share CTI in a consistent, machine-readable manner, facilitating collaboration and automation. 
+
+A good operating understanding of the STIX standard is critical for cyber threat intelligence teams hoping to leverage TIPs and process intelligence.
+
 ### Threat Intelligence Platforms Free / Open-Source
 
 ## [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
