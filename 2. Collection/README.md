@@ -18,7 +18,7 @@ Information sharing platforms and communities
 Here are some lists of fantastic collections of lists with contain collection sources you can use.
 
 https://github.com/hslatman/awesome-threat-intelligence
-Here's a comprehensive list of free threat intelligence feeds with hyperlinks:
+Here's a comprehensive list of free threat intelligence feeds with hyperlinks
 
 ## IP-based Feeds
 
