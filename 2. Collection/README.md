@@ -1,6 +1,21 @@
 # Collection Phase
 
-Here are some lists of fantastic collections of lists with contain collection sources you can use
+The collection phase is a critical step in the cyber threat intelligence lifecycle where relevant data is gathered from various sources to inform the intelligence analysis. During this phase, security professionals and analysts collect information from both internal and external sources that may indicate potential threats or vulnerabilities.
+Key aspects of the collection phase include:
+
+Identifying and prioritizing relevant data sources
+Gathering data through automated tools and manual methods
+Ensuring the collected data is timely, accurate, and relevant
+
+Some important sources for threat intelligence collection include:
+
+Open-source intelligence (OSINT)
+Dark web monitoring
+Technical feeds (e.g., IP reputation lists, malware signatures)
+Internal network logs and security events
+Information sharing platforms and communities
+
+Here are some lists of fantastic collections of lists with contain collection sources you can use.
 
 https://github.com/hslatman/awesome-threat-intelligence
 Here's a comprehensive list of free threat intelligence feeds with hyperlinks:
