@@ -34,6 +34,23 @@ PIR-Buddy/
     └── pir_workbook.py            # openpyxl CLI to read/add/modify/validate the workbook
 ```
 
+## Get just this bundle
+
+This whole skill lives in one self-contained folder — `PIR-Buddy/` — so you can
+take just this part without the rest of CTI in a Box. Three ways to grab it:
+
+1. **Release ZIP (easiest):** download `PIR-Buddy.zip` from the repo's
+   [Releases](https://github.com/cybershujin/CTIinaBox/releases) page and unzip.
+2. **Clone and copy:** clone the repo and copy the folder out —
+   ```bash
+   git clone https://github.com/cybershujin/CTIinaBox.git
+   cp -r "CTIinaBox/1. Planning and Direction/PIR-Buddy" ./PIR-Buddy
+   ```
+3. **Folder downloader:** paste this folder's URL into a tool like
+   [download-directory.github.io](https://download-directory.github.io/) or
+   DownGit — GitHub's own "Download ZIP" button only grabs the whole repo, not a
+   single folder.
+
 ## Requirements
 
 - **Claude Code** (or any Claude harness that supports skills).
@@ -49,17 +66,39 @@ you just lose the automated read/write.
 
 ## Install (Claude Code)
 
-Copy the `PIR-Buddy/` folder into your skills directory so Claude can discover
-it:
+1. **Install the Python dependency** (for the workbook helper):
+   ```bash
+   pip install openpyxl
+   ```
+2. **Put the skill where Claude can find it** — copy the *contents* of
+   `PIR-Buddy/` into a skills directory so `SKILL.md` lands at the top level of
+   the skill folder:
+   - **Project scope:** `.claude/skills/pir-buddy/SKILL.md` (+ `references/`,
+     `scripts/`, `README.md`)
+   - **User scope (all projects):** `~/.claude/skills/pir-buddy/SKILL.md`
 
-- **Project scope:** `.claude/skills/pir-buddy/`  (copy the *contents* of
-  `PIR-Buddy/` so `SKILL.md` sits at `.claude/skills/pir-buddy/SKILL.md`)
-- **User scope:** `~/.claude/skills/pir-buddy/`
+   On Windows PowerShell, from inside the `PIR-Buddy/` folder:
+   ```powershell
+   $dest = "$HOME\.claude\skills\pir-buddy"
+   New-Item -ItemType Directory -Force $dest | Out-Null
+   Copy-Item -Recurse -Force .\* $dest
+   ```
+   macOS/Linux equivalent:
+   ```bash
+   mkdir -p ~/.claude/skills/pir-buddy && cp -r ./* ~/.claude/skills/pir-buddy/
+   ```
+3. **Restart Claude Code** so it discovers the new skill.
+4. **Use it** — just ask in plain language:
+   > "Hey PIR Buddy, help me add a PIR"
+   > "PIR Buddy, help me identify my CTI stakeholders"
+   > "/pir-buddy"
 
-Then start (or restart) Claude Code and just ask — e.g. *"Hey PIR Buddy, help me
-add a PIR"* or *"help me identify my CTI stakeholders."* The skill triggers on
-those requests. You can also keep the folder right here in `1. Planning and
-Direction/` as documentation and point Claude at it.
+   PIR Buddy greets you and offers the four paths (identify stakeholders · add a
+   PIR · modify a PIR · ask questions).
+
+> **No-install option:** you can also just keep this folder in place and tell
+> Claude *"read `1. Planning and Direction/PIR-Buddy/SKILL.md` and act as PIR
+> Buddy"* — handy for a quick try without copying anything.
 
 ## Using the workbook helper directly
 
