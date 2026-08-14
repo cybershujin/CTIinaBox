@@ -36,6 +36,13 @@ Treat the planning phase as a cyclical process, not a one-time event. Regularly 
 
 By meticulously following these steps in the planning phase, organizations can establish a solid foundation for their CTI lifecycle, ensuring that their intelligence efforts are both strategic and adaptable to the evolving cyber threat environment.
 
+## 🕵️‍♀️ Meet PIR Buddy — an assistant for this whole phase
+
+**[PIR Buddy](./PIR-Buddy/)** is a cheerful Claude skill included in this folder that walks you through the hardest parts of Planning & Direction: **identifying intelligence stakeholders, developing IRs / PIRs / SIRs, and filling out the [IR-PIR-SIR-and-Intelligence-Collection-Plan workbook](./IR-PIR-SIR-and-Intelligence-Collection-Plan-TEMPLATE-and-Starting-Examples.xlsx).** When you call on it, it asks whether you want to identify stakeholders, add a new PIR, modify an existing one, or just ask questions about CTI requirements best practices — and it reads/writes the workbook for you.
+
+- 📂 Browse it: [`PIR-Buddy/`](./PIR-Buddy/) — see the [README](./PIR-Buddy/README.md) for install & usage.
+- ⬇️ Download just this bundle: [**PIR-Buddy.zip** (latest release)](https://github.com/cybershujin/CTIinaBox/releases/tag/pir-buddy-v1.0).
+
 ## Resources:
 
 ### Pitch the program
